@@ -1,8 +1,20 @@
+<div>
 <h3>PNG</h3>
-![png test](test.png)
+<div>
+<img src="test.png" width="960">
+</div>
 <h3>EPS</h3>
-![eps test](test.eps)
+<div>
+<img src="test.eps" width="960">
+</div>
+
 <h3>SVG</h3>
-![svg test](test.svg)
+<div>
+<img src="test.svg" width="960">
+</div>
+
 <h3>PDF</h3>
-![pdf test](test.pdf)
+<div>
+<img src="test.pdf" width="960">
+</div>
+</div>
