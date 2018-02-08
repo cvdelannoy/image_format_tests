@@ -8,9 +8,19 @@
 <img src="test.eps" width="960">
 </div>
 
-<h3>SVG</h3>
+<h3>SVG sans</h3>
 <div>
 <img src="test.svg" width="960">
+</div>
+
+<h3>SVG serif</h3>
+<div>
+<img src="test_serif.svg" width="960">
+</div>
+
+<h3>SVG mono</h3>
+<div>
+<img src="test_mono.svg" width="960">
 </div>
 
 <h3>PDF</h3>
